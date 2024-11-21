@@ -1,1 +1,1 @@
-# Work-Order-Manager
+The code implements a simple work order management system with the ability to add, remove, edit, search, and display work orders. This implementation is particularly useful for relatively small-scale use cases, where work orders are managed manually through the console, such as a small service or repair shop. It demonstrates the usage of classes, dynamic memory management, and basic console-based user interaction in C++.
